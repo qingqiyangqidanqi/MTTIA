@@ -1,0 +1,1 @@
+{'tap': 'The UI element is commonly associated with the follow function in social media applications, allowing users to follow or subscribe to content from other users or entities.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

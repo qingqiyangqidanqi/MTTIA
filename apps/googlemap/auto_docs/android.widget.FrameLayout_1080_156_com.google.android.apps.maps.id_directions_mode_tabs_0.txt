@@ -1,0 +1,1 @@
+{'tap': 'The UI element is used to initiate turn-by-turn navigation in car mode.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

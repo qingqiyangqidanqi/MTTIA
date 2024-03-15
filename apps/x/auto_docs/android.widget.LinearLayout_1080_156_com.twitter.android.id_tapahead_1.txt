@@ -1,0 +1,1 @@
+{'tap': 'The UI element appears to refresh the search results or modify the search query when interacted with.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

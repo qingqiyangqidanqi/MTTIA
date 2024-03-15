@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as a search bar that, when tapped, allows the user to input text for searching a destination or point of interest.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

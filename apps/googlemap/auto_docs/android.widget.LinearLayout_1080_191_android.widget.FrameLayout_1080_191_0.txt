@@ -1,0 +1,1 @@
+{'tap': 'The UI element initiates walking directions to a selected location when tapped.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

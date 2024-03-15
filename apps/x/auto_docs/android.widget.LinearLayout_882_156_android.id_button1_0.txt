@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as a confirmation button that, when tapped, dismisses the confirmation message and possibly navigates the user to the relevant profile page to continue with the task.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

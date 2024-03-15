@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as a selection or confirmation button that, when tapped, takes the user to a more detailed view or provides additional options related to the selected item from a list.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

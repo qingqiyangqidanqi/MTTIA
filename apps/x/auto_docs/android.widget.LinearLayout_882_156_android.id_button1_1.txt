@@ -1,0 +1,1 @@
+{'tap': "The UI element functions as a confirmation button, which when tapped, executes an action corresponding to the user's intent, such as confirming a follow request on a social media platform.", 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

@@ -1,0 +1,1 @@
+{'tap': 'The UI element opens a search bar where users can type in their queries to find specific profiles, posts, or other content within the app.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

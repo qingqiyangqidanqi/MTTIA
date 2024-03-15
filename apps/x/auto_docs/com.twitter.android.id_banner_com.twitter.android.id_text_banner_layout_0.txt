@@ -1,0 +1,1 @@
+{'tap': 'The UI element appears to be an advertisement that, when tapped, takes the user to a promotional page or offers details about a betting service.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

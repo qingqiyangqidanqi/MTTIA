@@ -1,0 +1,1 @@
+{'tap': 'The UI element initiates turn-by-turn navigation for walking directions to a selected destination.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as a link to the official account page of a user on the platform.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

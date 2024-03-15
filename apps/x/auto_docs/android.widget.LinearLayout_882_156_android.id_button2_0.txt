@@ -1,0 +1,1 @@
+{'tap': 'The UI element serves as a confirmation button to dismiss dialog boxes and proceed with the intended action.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

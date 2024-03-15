@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as a selection tool for a search result, which upon being tapped, displays the location on a map, aiding in geographical navigation.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

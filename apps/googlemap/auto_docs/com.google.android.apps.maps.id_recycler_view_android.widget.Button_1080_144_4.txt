@@ -1,0 +1,1 @@
+{'tap': 'The UI element initiates the transition from the search results list to the detailed view or navigation options for a selected location.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

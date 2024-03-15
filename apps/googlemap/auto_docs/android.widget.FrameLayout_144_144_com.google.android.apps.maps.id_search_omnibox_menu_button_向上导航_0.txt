@@ -1,0 +1,1 @@
+{'tap': "The UI element functions as a selection tool for search suggestions, confirming the user's choice and progressing to the next step in the navigation process.", 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

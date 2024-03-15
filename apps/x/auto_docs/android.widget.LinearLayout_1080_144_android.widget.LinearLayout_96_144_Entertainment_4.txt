@@ -1,0 +1,1 @@
+{'tap': "The UI element triggers a follow or unfollow action for a user's account on the platform. When tapped, it allows the user to follow the account if not already following, or presents a confirmation dialog to unfollow if the account is currently being followed.", 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

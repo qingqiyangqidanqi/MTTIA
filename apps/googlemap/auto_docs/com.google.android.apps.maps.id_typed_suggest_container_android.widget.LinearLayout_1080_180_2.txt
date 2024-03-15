@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as a link or button to access more detailed information or perform an action related to the selected search result.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

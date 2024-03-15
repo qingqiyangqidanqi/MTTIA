@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as a search bar, allowing users to input text to search for content, users, or topics within the app.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

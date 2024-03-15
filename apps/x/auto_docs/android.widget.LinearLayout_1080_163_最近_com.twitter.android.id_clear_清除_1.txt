@@ -1,0 +1,1 @@
+{'tap': 'The UI element triggers a confirmation dialog that prompts the user to confirm whether they want to follow the profile they have selected.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

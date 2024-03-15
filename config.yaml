@@ -1,0 +1,16 @@
+#OPENAI_API_BASE: "https://api.openai.com/v1/chat/completions"
+OPENAI_API_BASE: "https://openkey.cloud/v1/chat/completions"
+
+OPENAI_API_KEY: "sk-FkgifVaenSSgIJiKAb27018c456c4178B32d05A56e7aF07d"  # Set the value to sk-xxx if you host the openai interface for open llm model
+OPENAI_API_MODEL: "gpt-4-vision-preview"  # The only OpenAI model by now that accepts visual input
+MAX_TOKENS: 300  # The max token limit for the response completion
+TEMPERATURE: 0.0  # The temperature of the model: the lower the value, the more consistent the output of the model
+REQUEST_INTERVAL: 5  # 连续 GPT-4V 请求之间的时间（以秒为单位）
+
+ANDROID_SCREENSHOT_DIR: "/sdcard/Pictures/Screenshots"  # Set the directory on your Android device to store the intermediate screenshots. Make sure the directory EXISTS on your phone!
+ANDROID_XML_DIR: "/sdcard"  # Set the directory on your Android device to store the intermediate XML files used for determining locations of UI elements on your screen. Make sure the directory EXISTS on your phone!
+
+DOC_REFINE: false  # 将此项设置为 true 将使代理根据最新演示优化现有文档;否则，代理不会为具有相同资源 ID 的元素重新生成新文档。
+MAX_ROUNDS: 20  # 设置代理完成任务的轮次限制
+DARK_MODE: false  # 如果您的应用处于深色模式，请将其设置为 true，以增强元素标记
+MIN_DIST: 30  # The minimum distance between elements to prevent overlapping during the labeling process

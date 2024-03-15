@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as a button to initiate the directions or navigation feature to a selected destination.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

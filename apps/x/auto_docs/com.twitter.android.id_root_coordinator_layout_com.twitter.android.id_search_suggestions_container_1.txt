@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as a follow button, allowing users to initiate following a particular profile on the platform.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

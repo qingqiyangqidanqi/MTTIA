@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as a location selector or search result expander, which when tapped, presents a list of locations or points of interest to the user.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

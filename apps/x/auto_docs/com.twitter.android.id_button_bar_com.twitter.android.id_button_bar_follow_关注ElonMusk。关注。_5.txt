@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as a toggle button to follow or unfollow an account on the platform.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}

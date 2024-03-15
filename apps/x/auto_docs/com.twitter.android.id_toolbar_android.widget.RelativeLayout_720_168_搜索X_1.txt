@@ -1,0 +1,1 @@
+{'tap': 'The UI element functions as a button that, when tapped, navigates to the profile page of the selected account.', 'text': '', 'v_swipe': '', 'h_swipe': '', 'long_press': ''}
